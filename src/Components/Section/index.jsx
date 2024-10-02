@@ -4,7 +4,7 @@ const Section = () => {
   return (
     <div className={styles.container}>
       <div>
-        <h1 className={styles.titulo}>O que o IMC ?</h1>
+        <h1 className={styles.titulo}>O que é o IMC ?</h1>
         <p className={styles.paragrafo}>
           O Índice de Massa Corporal (IMC) é uma ferramenta que oferece uma
           visão geral da relação entre peso e altura de uma pessoa. No entanto,
