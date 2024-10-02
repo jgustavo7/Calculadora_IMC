@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    gap: 40px;
+  }
+  
+  .titulo{
+    display: block;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 12px;
+    color: #000000;
+  }
+  
+  .paragrafo {
+    line-height: 1.5em;
+    text-align: center;
+    font-size: 1rem;
+    color: #000;
+  }
+  
+  .lista{
+    list-style-type: disc;
+    margin-bottom: 40px;
+    margin-top: 72px;
+  }
+  
+  .listaItem{
+    font-size: 1.125rem;
+    margin-top: 20px;
+    color: #192a56;
+    font-weight: 700;
+  }
